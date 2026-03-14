@@ -1,3 +1,4 @@
 May A da hoan thanh tinh nang login
 
+May A fixbug login
 May B fixbug tinh nang dang ky
