@@ -1,1 +1,3 @@
 Hoàn thanh tinh nang dang ky
+
+May B fixbug tinh nang dang ky
